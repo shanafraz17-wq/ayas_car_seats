@@ -48,8 +48,8 @@ function Contact() {
         </div>
         <div className="contact-info">
           <h3>Our Information</h3>
-          <p><strong>Address:</strong> 123 Auto Lane, Car City, PK</p>
-          <p><strong>Email:</strong> contact@ayascarseats.com</p>
+          <p><strong>Address:</strong> Shop No:4,New Lorry Stand,South Ukkadam</p>
+          <p><strong>Email:</strong> thouthoufee@gmail.com</p>
           <p><strong>Phone:</strong> +91 90475 12050</p>
           <div className="map-location">
             <div className="map-pin">
